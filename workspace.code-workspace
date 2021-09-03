@@ -2,6 +2,14 @@
 	"folders": [
 		{
 			"path": "."
+		},
+		{
+			"path": "../GitHub/thilak-tp"
 		}
-	]
+	],
+	"settings": {
+		"files.associations": {
+			"iostream": "cpp"
+		}
+	}
 }
