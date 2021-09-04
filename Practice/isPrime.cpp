@@ -1,4 +1,5 @@
 // A program to check if a number is prime or not.
+// A number which is divisible only by 1 or itself
 #include<iostream>
 using namespace std;
 
